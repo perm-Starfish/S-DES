@@ -35,5 +35,5 @@ python sdes.py decrypt --key 0000011111 --text <the result>
 ```
 should get the original plaintext
 
-> ### Core idea
+## Core idea
 > plaintext → encrypt → ciphertext → decrypt → plaintext
