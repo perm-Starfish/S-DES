@@ -1,7 +1,7 @@
 # S-DES Implementation
 
 ## Environment
-- Python version: Python 3.8+ (tested with Python 3.x)
+- Python version: Python 3.8+
 - No external libraries required (only standard library)
 
 ## Run
