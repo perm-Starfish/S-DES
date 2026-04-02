@@ -1,0 +1,19 @@
+1. Functional Requirements
+
+- Implement S-DES encryption and decryption
+- Key generation (Key Schedule)
+- Round function (fk)
+- Switch function (Theta)
+- Full S-DES structure
+- Decryption using reversed subkeys
+
+2. Input / Output Interface
+
+- Command-line interface (No interactive input required)
+- Supported encrypt, decrypt, and verification
+- Input validation (10-bit key / 8-bit text)
+
+3. Test Cases
+
+- Professor-provided verification case
+- Additional custom tests
